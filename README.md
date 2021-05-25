@@ -1,7 +1,7 @@
 # Golden's Better Discord Themes
 Repo for all of my better discord themes. Feel free to use for yourself, directions are below!.
 
-##Directions:
+## Directions:
 1. Open Better Discord.
 2. Enter Discord settings and scroll down to the "BetterDiscord" category.
 3. Click on "Custom CSS".
