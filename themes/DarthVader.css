@@ -1536,7 +1536,7 @@ body::before {
 	background-color: rgba(var(--transparencycolor), .6);
 }
 .controlButton-2MhVEL.leaveButton-2YnTyt {
-	background-color: rgba(var(--dangercolor)),.5);
+	background-color: rgba(var(--dangercolor),.5);
 }
 .controlButton-2MhVEL.leaveButton-2YnTyt:hover {
 	background-color: rgb(var(--dangercolor));
@@ -5951,7 +5951,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	background: var(--header-primary);
 }
 #app-mount .container-CpszHS.recording-1H2dS7 .button-34kXw5 {
-	background-color: rgba(var(--dangercolor)),.1);
+	background-color: rgba(var(--dangercolor),.1);
 	color: rgb(var(--dangercolor));
 }
 
