@@ -26,4 +26,4 @@ Quick Preview of what each theme looks like.
 ![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png)
 
 ### Synthwave
-![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png?token=AOTSDHFND627IGOV4FRHEX3AV67ZC)
+![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png)
