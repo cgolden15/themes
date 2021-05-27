@@ -7,9 +7,7 @@
  * @invite 54v3wsM2
  * @website https://github.com/cgolden15/BD-Themes/blob/main/themes/DarthDevrahh.css
  * @source https://raw.githubusercontent.com/cgolden15/BD-Themes/main/themes/DarthDevrahh.css
- */
-
-@import url(https://raw.githubusercontent.com/cgolden15/BD-Themes/main/themes/DarthVader2.css);
+*/
 
 
 :root {
@@ -58,6 +56,11 @@
 	--bdfdb-yellow:					rgb(var(--warningcolor));
 	--bdfdb-red:					rgb(var(--dangercolor));
 }
+
+::selection {
+    background-color: rgb(var(--accentcolor));
+}
+
 
 .theme-light, .theme-dark {
 	--text-positive: rgb(var(--successcolor));
