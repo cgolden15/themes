@@ -2635,6 +2635,10 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	border-radius: 5px;
 	pointer-events: none;
 }
+::selection {
+    background-color: rgb(var(--accentcolor));
+}
+
 
 .guildSidebar-339BqP {										/* communitysettings	rules		example sidebar			*/
 	background-color: rgba(var(--transparencycolor), .4);
