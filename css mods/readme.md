@@ -1,4 +1,4 @@
-# CSS Mods
+# CSS Snippets
 CSS mods/snippets are small portions of CSS code that change how discord appears. For example, it can remove server discovery or hide profile badges! Here I have a collection of a few helpful snippets for use in combination with my themes.
 
 ## How to use
