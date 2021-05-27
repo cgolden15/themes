@@ -97,7 +97,9 @@
 	--font-display: var(--font) !important;
 }
 
-
+::selection {
+    background-color: rgb(var(--accentcolor));
+}
 
 body,														
 #app-mount .app-1q1i1E,										
