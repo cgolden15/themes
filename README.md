@@ -23,4 +23,7 @@ Quick Preview of what each theme looks like.
 ![DarthVader](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthVader.png)
 
 ### BlueBedroom
-![BlueBedroom](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/BlueBedroom.png)
+![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png?token=AOTSDHAZUSZ4OUOMEAKGU73AV655I)
+
+### Synthwave
+![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png?token=AOTSDHAAR2EBT7GQ4QOKJ4DAV657E)
