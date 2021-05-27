@@ -2,7 +2,7 @@
  * @name Synthwave Highway
  * @description Synthwave mountain range with a  in front of it   
  * @author Golden!!
- * @version 1.5
+ * @version 1.6
  * @authorId 317283391982534666
  * @invite 54v3wsM2
  * @website https://github.com/cgolden15/BD-Themes/blob/main/themes/synthwave.theme.css
@@ -130,6 +130,9 @@ body,
 
 #app-mount .scroller-2ZPeAD {								
 	border: none;
+}
+.numberBadge-2s8kKX {
+    background-color: rgb(var(--accentcolor)) !important
 }
 
 #app-mount .sidebarRegion-VFTUkN {							
