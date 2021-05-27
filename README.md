@@ -20,10 +20,10 @@ Quick Preview of what each theme looks like.
 ![Devrahh](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthDevrahh.png)
 
 ### DarthVader
-![DarthVader](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVader.png?token=AOTSDHAWPGKCXOFOWPCADQ3AV67WC)
+![DarthVader](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVader.png)
 
 ### BlueBedroom
-![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png?token=AOTSDHH5TBGGG3MPJDH65SDAV67UG)
+![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png)
 
 ### Synthwave
 ![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png?token=AOTSDHFND627IGOV4FRHEX3AV67ZC)
