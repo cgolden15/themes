@@ -421,7 +421,9 @@ body::before {
 	opacity: 0.6;
 	background: url(https://discord.com/assets/7065587bd42fd829925bf6aa4b36f5e2.svg) center top 22px/220px no-repeat;
 }
-
+.numberBadge-2s8kKX {
+    background-color: rgb(var(--accentcolor)) !important
+}
 
 .wrapper-2jXpOf:hover .content-1x5b-n {						/* channel				content								*/
 	background-color: rgba(var(--transparencycolor), .2);
