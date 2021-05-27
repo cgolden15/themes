@@ -9,3 +9,9 @@ Repo for all of my better discord themes. Feel free to use for yourself, directi
 5. Drop the file into your Better Disctord theme folder.
 6. Enjoy! 
 
+
+## Previews:
+Quick Preview of what each theme looks like.
+
+### DarthVader2
+![DarthVader2](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/Screenshot_5.png)
