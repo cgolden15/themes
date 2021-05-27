@@ -1,3 +1,15 @@
+/**
+ * @name Darth Vader Minimalist  
+ * @description Simple darth vader theme for those who need something simple
+ * @author Golden!!
+ * @version 1.5
+ * @authorId 317283391982534666
+ * @invite 54v3wsM2
+ * @website https://github.com/cgolden15/BD-Themes/blob/main/themes/DarthVaderMinimal.css
+ * @source https://raw.githubusercontent.com/cgolden15/BD-Themes/main/themes/DarthVaderMinimal.css
+ */
+
+
 :root {
 	--transparencycolor:			0,0,0;
 	--transparencyalpha:			0.15;
@@ -23,6 +35,7 @@
 	--textdark: 					160,160,160;
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
+	--mentioned:                    45,45,245;
 	
 	--background:					url(https://i.pinimg.com/originals/a8/66/97/a866972eff1943ec3d8d96c52110d5bc.jpg);
 	--backgroundposition:			center;
@@ -378,7 +391,7 @@ body::before {
 
 .guildIconUnavailable-3IYARS,								/* guilderror			miniicon							*/
 .guildsError-g6NwOI {										/* guilderror			innerwrap							*/
-	background-color: rgba(var(--dangercolor)),.3);
+	background-color: rgba(var(--dangercolor),.3);
 }
 
 .dragInner-Oq_toX {											/* dragplaceholder											*/
@@ -810,10 +823,10 @@ body::before {
 }
 .message-2qnXI6.ephemeral-1PsL1r,							/* message				localbot							*/
 .message-2qnXI6.replying-1x3H0T {							/* message				replying							*/
-	background-image: linear-gradient(rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))), rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))));
+	background-image: linear-gradient(rgba(var(--mentioned), calc(0.2 * (1 - var(--usechatbubbles)))), rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))));
 }
 .message-2qnXI6.mentioned-xhSam7 {							/* message				mentioned							*/
-	background-image: linear-gradient(rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))), rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))));
+	background-image: linear-gradient(rgba(var(--mentioned), calc(0.2 * (1 - var(--usechatbubbles)))), rgba(var(--accentcolor), calc(0.2 * (1 - var(--usechatbubbles)))));
 }
 .message-2qnXI6.ephemeral-1PsL1r::before,
 .message-2qnXI6.replying-1x3H0T::before,
@@ -822,7 +835,7 @@ body::before {
 }
 .message-2qnXI6.mentioned-xhSam7 .contents-2mQqc9 .messageContent-2qWWxC {
 	border-radius: 3px;
-	background-color: rgba(var(--accentcolor), calc(0.3 * var(--usechatbubbles)));
+	background-color: rgba(var(--mentioned), calc(0.3 * var(--usechatbubbles)));
 }
 #app-mount .avatar-1BDn8e,									/* message				container avatar					*/
 #app-mount .avatar-2daVqv {									/* message				loading avatar						*/
