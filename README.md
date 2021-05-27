@@ -14,16 +14,16 @@ Repo for all of my better discord themes. Feel free to use for yourself, directi
 Quick Preview of what each theme looks like.
 
 ### DarthVaderMinimalist
-![DarthVader2](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthVaderMinimal.png)
+![DarthVader2](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVaderMinimal.png?token=AOTSDHHFCXO6TXR7PKTG7SDAV66TO)
 
 ### DarthDevrahh
 ![Devrahh](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthDevrahh.png)
 
 ### DarthVader
-![DarthVader](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthVader.png)
+![DarthVader](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVader.png?token=AOTSDHB73MSXE6DXQLFDKW3AV66VC)
 
 ### BlueBedroom
-![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png?token=AOTSDHAZUSZ4OUOMEAKGU73AV655I)
+![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png?token=AOTSDHHL3ZMEAIEHI6545TLAV66ZI)
 
 ### Synthwave
-![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png?token=AOTSDHAAR2EBT7GQ4QOKJ4DAV657E)
+![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png?token=AOTSDHD7O3BDGJ6QDU543F3AV66XW)
