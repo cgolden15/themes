@@ -1,0 +1,5 @@
+/* Replace "[Color]" with your color of choice. Already included in some of my themes.*/
+
+::selection {
+    background-color: pink;
+}
