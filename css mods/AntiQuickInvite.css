@@ -1,0 +1,5 @@
+/*Hides the "invite to server" button when right clicking on a user*/
+
+#user-context-invite-to-server {
+  display: none;
+}
