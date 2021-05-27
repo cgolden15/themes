@@ -17,7 +17,7 @@ Quick Preview of what each theme looks like.
 ![DarthVader2](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVaderMinimal.png?token=AOTSDHBTMKPR4HJW3XCT37LAV67XS)
 
 ### DarthDevrahh
-![Devrahh](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthDevrahh.png)
+![Devrahh](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthDevrahh.png)
 
 ### DarthVader
 ![DarthVader](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVader.png)
