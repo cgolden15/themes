@@ -13,5 +13,14 @@ Repo for all of my better discord themes. Feel free to use for yourself, directi
 ## Previews:
 Quick Preview of what each theme looks like.
 
-### DarthVader2
-![DarthVader2](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/Screenshot_5.png)
+### DarthVaderMinimalist
+![DarthVader2](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthVaderMinimal.png)
+
+### DarthDevrahh
+![Devrahh](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthDevrahh.png)
+
+### DarthVader
+![DarthVader](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/DarthVader.png)
+
+### BlueBedroom
+![BlueBedroom](https://raw.githubusercontent.com/cgolden15/BD-Themes/main/previews/BlueBedroom.png)
