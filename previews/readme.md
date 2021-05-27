@@ -1,1 +1,2 @@
-This folder includes previews for use in the main readme.
+#Notice:
+This folder includes previews for use in the main readme and contains no useful information.
