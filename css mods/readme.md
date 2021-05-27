@@ -5,5 +5,5 @@ CSS mods/snippets are small portions of CSS code that change how discord appears
 After you have enabled your theme through the theme menu, do the following:
 1. Navigate to "Custom CSS" 
 2. Paste the code snippet of your choice into the box. Click Save, then update.
-~[Example](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/CSSmodHelp.png?token=AOTSDHCF2G2BOB5K6RXCBBDAV63MA)
+![Example](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/CSSmodHelp.png?token=AOTSDHCF2G2BOB5K6RXCBBDAV63MA)
 Red = Update   |   Green - Save
