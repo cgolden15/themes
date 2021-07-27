@@ -1654,12 +1654,9 @@ div[id*="folder-items"] {
 	margin-bottom: -22px;
 }
 
-/* BetterDiscord: Public Server List: Button */
+/* BetterDiscord: public Server List: Button */
 #bd-pub-li {
-	height: 20px;
-	margin-bottom: 6px;
-	margin-top: 58px;
-	padding: 0;
+	display: none;
 }
 
 /* BetterDiscord: Settings: Tab Item */
@@ -1738,9 +1735,6 @@ div[id*="folder-items"] {
 	height: auto;
 }
 
-#bd-pub-button {
-    display: none;
-}
 
 /* Plugins: Channel Tabs */
 :root {
