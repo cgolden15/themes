@@ -1738,6 +1738,10 @@ div[id*="folder-items"] {
 	height: auto;
 }
 
+#bd-pub-button {
+    display: none;
+}
+
 /* Plugins: Channel Tabs */
 :root {
 	--channelTabs-tabWidth: 190px;
