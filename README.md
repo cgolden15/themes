@@ -8,22 +8,3 @@ Repo for all of my better discord themes. Feel free to use for yourself, directi
 4. Back on github, download selected theme file.
 5. Drop the file into your Better Disctord theme folder.
 6. Enjoy! 
-
-
-## Previews:
-Quick Preview of what each theme looks like.
-
-### DarthVaderMinimalist
-![DarthVader2](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVaderMinimal.png?token=AOTSDHBTMKPR4HJW3XCT37LAV67XS)
-
-### DarthDevrahh
-![Devrahh](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthDevrahh.png)
-
-### DarthVader
-![DarthVader](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/DarthVader.png)
-
-### BlueBedroom
-![BlueBedroom](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/BlueBedroom.png)
-
-### Synthwave
-![Synthwave](https://raw.githubusercontent.com/cgolden15/Assets/main/screenshots/Synthwave.png)
