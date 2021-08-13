@@ -1,6 +1,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url("https://xhylo.github.io/WinBAcss/winbuttons.css");
 
 :root {
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -4388,3 +4389,37 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	transform: unset !important;
 	animation: unset !important;
 }
+/* other stuff */
+
+/* Animated settings/deafen/mute buttons */
+.button-14-BFJ:hover .contents-18-Yxp {
+  animation: UserModalButtons 0.5s normal ease;
+}
+.container-3baos1 .noWrap-3jynv6 {
+  width: 100px;
+  opacity: 1;
+}
+.button-14-BFJ {
+  transition: 0.2s;
+}
+.button-14-BFJ:hover {
+  padding-bottom: 0px;
+  transition: 0.2;
+}
+@keyframes UserModalButtons {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* hide sticker button */
+.stickerButton-3OEgwj {display: none}
+
+/* hide nitrop tab */ 
+#private-channels [href="/store"] {display: none}
